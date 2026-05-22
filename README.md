@@ -16,7 +16,7 @@ Yapay zeka ve mobil geliştirme dünyasında yenilikçi çözümler üretiyorum.
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cagla13&layout=compact&hide_border=true&title_color=1B5E20&text_color=333333&bg_color=F1F8E9" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cagla13&bg_color=F1F8E9&color=1B5E20&line=2E7D32&point=1B5E20&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 ---
 
