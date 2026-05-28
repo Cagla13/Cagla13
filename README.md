@@ -1,6 +1,5 @@
 # Merhaba, Ben Çağla! 
 
-##  Hakkımda
 Yapay zeka ve mobil geliştirme dünyasında yenilikçi çözümler üretiyorum.
 
 ---
